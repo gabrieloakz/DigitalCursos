@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\53023\\Documents\\GitHub\\DigitalCursos\\DigitalCursos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{863EF22E-7BA3-431F-A59D-C827D34BBDD9}|DigitalCursos.csproj|c:\\users\\53023\\documents\\github\\digitalcursos\\digitalcursos\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863EF22E-7BA3-431F-A59D-C827D34BBDD9}|DigitalCursos.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{863EF22E-7BA3-431F-A59D-C827D34BBDD9}|DigitalCursos.csproj|c:\\users\\53023\\documents\\github\\digitalcursos\\digitalcursos\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{863EF22E-7BA3-431F-A59D-C827D34BBDD9}|DigitalCursos.csproj|solutionrelative:components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\53023\\Documents\\GitHub\\DigitalCursos\\DigitalCursos\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\53023\\Documents\\GitHub\\DigitalCursos\\DigitalCursos\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvzsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T15:17:51.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Login.razor",
               "DocumentMoniker": "C:\\Users\\53023\\Documents\\GitHub\\DigitalCursos\\DigitalCursos\\Components\\Pages\\Login.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Login.razor",
               "ToolTip": "C:\\Users\\53023\\Documents\\GitHub\\DigitalCursos\\DigitalCursos\\Components\\Pages\\Login.razor",
               "RelativeToolTip": "Components\\Pages\\Login.razor",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-24T15:12:26.15Z",
               "EditorCaption": ""

@@ -5,3 +5,56 @@
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
+
+<h3>Página de Login</h3>
+
+<EditForm Model="@loginModel" OnValidSubmit="HandleLogin">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label for="email">Email:</label>
+        <InputText id="email" @bind-Value="@loginModel.Email" />
+        <ValidationMessage For="@(() => loginModel.Email)" />
+    </div>
+
+    <div>
+        <label for="password">Senha:</label>
+        <InputText id="password" type="password" @bind-Value="@loginModel.Password" />
+        <ValidationMessage For="@(() => loginModel.Password)" />
+    </div>
+
+    <button type="submit">Entrar</button>
+</EditForm>
+
+@if (loginFailed)
+{
+            <p style="color:red;">Falha ao entrar. Verifique suas credenciais.</p>
+}
+
+@code {
+    private LoginModel loginModel = new LoginModel();
+    private bool loginFailed = false;
+
+    private void HandleLogin()
+    {
+        // Lógica de autenticação aqui
+        // Exemplo: verificar se email e senha estão corretos
+        if (loginModel.Email != "user@example.com" || loginModel.Password != "senha123")
+        {
+            loginFailed = true;
+        }
+        else
+        {
+            // Redirecionar ou realizar login
+            loginFailed = false;
+            // Redirecionar para outra página, se necessário
+        }
+    }
+
+    public class LoginModel
+    {
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
+}
