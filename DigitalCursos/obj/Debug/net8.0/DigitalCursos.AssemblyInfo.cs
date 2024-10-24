@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalCursos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1549b679bd6ab2fcd13950174bbbff0197109f1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+779100ac5d6f0bcafd20f1343f5b6ea2572fc7df")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalCursos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalCursos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
