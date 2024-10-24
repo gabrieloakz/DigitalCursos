@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "DigitalCursos.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DigitalCursos.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DigitalCursos.Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DigitalCursos.Models/1.0.0": {
+      "type": "project",
+      "path": "../DigitalCursos.Models/DigitalCursos.Models.csproj",
+      "msbuildProject": "../DigitalCursos.Models/DigitalCursos.Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "DigitalCursos.Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\53023\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\53023\\Documents\\GitHub\\DigitalCursos\\DigitalCursos.Models\\DigitalCursos.Models.csproj": {
+              "projectPath": "C:\\Users\\53023\\Documents\\GitHub\\DigitalCursos\\DigitalCursos.Models\\DigitalCursos.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

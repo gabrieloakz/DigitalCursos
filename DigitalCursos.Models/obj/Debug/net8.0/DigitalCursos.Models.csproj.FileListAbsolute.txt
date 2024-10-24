@@ -1,0 +1,12 @@
+C:\Users\53023\Documents\GitHub\DigitalCursos\DigitalCursos.Models\bin\Debug\net8.0\DigitalCursos.Models.deps.json
+C:\Users\53023\Documents\GitHub\DigitalCursos\DigitalCursos.Models\bin\Debug\net8.0\DigitalCursos.Models.dll
+C:\Users\53023\Documents\GitHub\DigitalCursos\DigitalCursos.Models\bin\Debug\net8.0\DigitalCursos.Models.pdb
+C:\Users\53023\Documents\GitHub\DigitalCursos\DigitalCursos.Models\obj\Debug\net8.0\DigitalCursos.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53023\Documents\GitHub\DigitalCursos\DigitalCursos.Models\obj\Debug\net8.0\DigitalCursos.Models.AssemblyInfoInputs.cache
+C:\Users\53023\Documents\GitHub\DigitalCursos\DigitalCursos.Models\obj\Debug\net8.0\DigitalCursos.Models.AssemblyInfo.cs
+C:\Users\53023\Documents\GitHub\DigitalCursos\DigitalCursos.Models\obj\Debug\net8.0\DigitalCursos.Models.csproj.CoreCompileInputs.cache
+C:\Users\53023\Documents\GitHub\DigitalCursos\DigitalCursos.Models\obj\Debug\net8.0\DigitalCursos.Models.sourcelink.json
+C:\Users\53023\Documents\GitHub\DigitalCursos\DigitalCursos.Models\obj\Debug\net8.0\DigitalCursos.Models.dll
+C:\Users\53023\Documents\GitHub\DigitalCursos\DigitalCursos.Models\obj\Debug\net8.0\refint\DigitalCursos.Models.dll
+C:\Users\53023\Documents\GitHub\DigitalCursos\DigitalCursos.Models\obj\Debug\net8.0\DigitalCursos.Models.pdb
+C:\Users\53023\Documents\GitHub\DigitalCursos\DigitalCursos.Models\obj\Debug\net8.0\ref\DigitalCursos.Models.dll

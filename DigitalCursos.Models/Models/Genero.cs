@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace DigitalCursos.Models.Models
 {
-    internal class Genero
+    public enum Genero
     {
+        Masculino,
+        Femenino,
+        Outro
     }
 }
